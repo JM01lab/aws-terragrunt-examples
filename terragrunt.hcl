@@ -8,7 +8,7 @@ remote_state {
     bucket         = "your-terraform-state-bucket"
     key            = "${path_relative_to_include()}/terraform.tfstate"
     region         = "us-west-2"
-    dynamodb_table = "your-dynamodb-table"
+    use_lockfile   = true
     encrypt        = true
   }
 

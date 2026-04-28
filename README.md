@@ -9,7 +9,7 @@ This repository demonstrates how to use Terragrunt to manage Terraform configura
 | Part | Topic | Link |
 | :--- | :--- | :--- |
 | Part 1 | Stop Copy-Pasting Terraform State Configs: Use Terragrunt Instead | [Read on Dev.to](https://dev.to/jeancy/stop-copy-pasting-terraform-state-configs-use-terragrunt-instead-ana) |
-| Part 2 | Component Isolation with Dependency Blocks | Coming soon |
+| Part 2 | Stop Putting Everything in One Terraform State: Use Terragrunt Dependency Blocks | [Read on Dev.to]() |
 
 ## Prerequisites
 
